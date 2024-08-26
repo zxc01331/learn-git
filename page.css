@@ -1,0 +1,29 @@
+#all{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header1{
+    background-color: aquamarine;
+    height: 90px;
+}
+#nav1{
+    background-color: beige;
+    width: 235px;
+    float: left;
+}
+#article1{
+    background-color: blueviolet;
+    width: 480px;
+    float: left;
+}
+#aside1{
+    background-color: chartreuse;
+    width: 235px;
+    float: left;
+}
+#footer1{
+    background-color: deepskyblue;
+    clear: both;
+    height: 90px;
+}
